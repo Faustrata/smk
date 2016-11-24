@@ -1,0 +1,24 @@
+select{
+	height: 35px; 
+	border-radius: 5px; 
+	border: 1px solid #BDC3C7; 
+	margin-top: 10px;
+}
+input[type=text]{
+	height: 35px; 
+	border-radius: 5px; 
+	border: 1px solid #BDC3C7; 
+	margin-top: 10px;
+}
+input[type=numeric]{
+	height: 35px; 
+	border-radius: 5px; 
+	border: 1px solid #BDC3C7; 
+	margin-top: 10px;
+}
+input[type=submit]{ 
+	border: 1px solid #BDC3C7; 
+	width: 65px; 
+	height: 35px; 
+	margin-bottom: 50px;
+}
