@@ -16,9 +16,7 @@
 	<link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">
 
 	<!-- Latest compiled and minified JavaScript -->
-	<script src="assets/js/bootstrap.js"></script>
-	<script src="assets/js/npm.js"></script>
-	<script src="assets/js/jquery.min.js"></script>
+
 	<!-- end css online -->
 
 	<link rel="stylesheet" href="plugins/datatables/dataTables.bootstrap.css">
@@ -42,8 +40,7 @@
 
 </div>
     <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
-    <!-- Bootstrap 3.3.5 -->
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+
     <!-- DataTables -->
     <script src="plugins/datatables/jquery.dataTables.min.js"></script>
     <script src="plugins/datatables/dataTables.bootstrap.min.js"></script>
