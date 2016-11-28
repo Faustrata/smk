@@ -9,7 +9,6 @@
 <body>
 <div class="container">
 	<div class="row">
-		<div class="login-box">
 			<br><br><br><br><br><br>
 			<div class="col-md-4">
 			</div>
@@ -26,10 +25,13 @@
 			        </div>
 			        <br>
 		             <button type="submit" class="btn btn-warning btn-block" name="signin">Login</button>
-		        </form>
-		    </div>
-		</div>
+		        </form><br>
+		        <a href="admin/">Login Admin</a>
+		    </div><br>
+
+		
     </div>
+
  </div>
 </body>
 </html>
