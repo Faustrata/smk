@@ -9,6 +9,7 @@
   </script>
 </head>
 <body>
+
 <div class="container">
   <div class="row">
       <br><br><br><br><br><br>
@@ -24,7 +25,7 @@
               </div>
                <div class="form-group">
                   <select name="level" class="form-control" >
-                      <option value="" selected="selected"></option>
+                      <option value="" disabled selected style="display: none;"></option>
                       <option value="pengajar">Pengajar</option>
                       <option value="admi">Admin</option>
                   </select>
